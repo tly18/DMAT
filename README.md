@@ -10,7 +10,7 @@ python training_cifar100.py
 ````
 + **Test：**
 ````
-python  double_test.py
+python double_test.py
 ````
 or
 ````
