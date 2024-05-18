@@ -1,5 +1,5 @@
 # Train and Test
-Train：
++ **Train：**
 ````
 python double_model_limit.py
 ````
@@ -8,7 +8,7 @@ or
 cd DMAT_CIFAR100
 python training_cifar100.py
 ````
-Test：
++ **Test：**
 ````
 python  double_test.py
 ````
